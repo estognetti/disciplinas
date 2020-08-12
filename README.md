@@ -1,2 +1,2 @@
-# UnB
-Templates para disciplinas e projetos UnB
+# Templates created by Prof. Eduardo S Tognetti (UnB)
+Templates for classes and projects
