@@ -1,2 +1,2 @@
-# disciplinas
-Disciplinas e templates UnB
+# UnB
+Templates para disciplinas e projetos UnB
